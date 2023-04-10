@@ -12,3 +12,17 @@ In addition to security, blockchain technology also allows for the easy sharing 
 
 Lack of digitization: Lack of digitization can limit access to museum collections and make it difficult to share information about antique pieces with a wider audience. This can limit the visibility and value of these objects, making it difficult to appreciate their significance and history.
 
+
+
+# Why Blockchain
+
+Google also provides the information about this                     antiques but this is not included with blockchain.
+
+By providing blockchain this information is not deleted for ever. 
+
+And no one can access to edit the information. It is highly secure for this.
+
+
+
+
+
