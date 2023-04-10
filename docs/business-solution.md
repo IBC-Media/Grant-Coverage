@@ -51,6 +51,18 @@ Advertisements: You can display ads within your dapp and earn revenue from click
 Affiliate marketing: You can partner with companies that sell historical items and earn a commission for any sales made through your app. This can be a great way to earn passive income while also promoting products that your users may be interested in.
 
 
+# Summary
+
+This dapp is most use full peoples who are most interest in antique pieces.In india know very well and it is use to store the all the information about antique pieces,that means store the museum records.
+
+Moreover, blockchain technology can help museums to combat the issue of counterfeit antiquities. By creating an immutable record of an antique piece's provenance, museums can ensure that the piece's authenticity can be verified at any time, reducing the risk of fraudulent or fake pieces being introduced into the market.
+
+Overall, the use of blockchain technology in museum records offers a promising solution to enhance the accuracy, security, and transparency of records related to antique pieces. It can help to preserve these valuable artifacts for future generations while also ensuring their authenticity and value.
+
+In conclusion, the use of blockchain technology can help museums in digitizing the records of antique pieces and preserving the historical information related to these pieces. This will help in ensuring that the cultural heritage is preserved for future generations.
+
+
+
 
 
 
