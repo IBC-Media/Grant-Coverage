@@ -24,5 +24,16 @@ And no one can access to edit the information. It is highly secure for this.
 
 
 
+# Proposed solution
+
+One possible solution for the lack of digitization in records of antique pieces in museums is to use blockchain technology. Blockchain is a decentralized, immutable, and transparent digital ledger that records transactions in a secure and tamper-proof manner.
+
+To implement this solution, museums can create a blockchain network that is specifically designed for recording the historical information related to antique pieces. The network can be accessible to museums, researchers, and enthusiasts who are interested in the history of antique pieces.
+
+Each antique piece can be assigned a unique digital identifier, which will be recorded on the blockchain along with the historical information related to the piece. This information can include the provenance, age, material, and any other relevant information about the piece.
+
+
+
+
 
 
