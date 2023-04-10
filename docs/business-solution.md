@@ -42,5 +42,16 @@ Overall, the competitive landscape for a records system for antique pieces in a 
 
 
 
+# Economics of your solution
+
+There are several ways to earn money through a records of historical things information dapp. Here are some ideas
+
+Advertisements: You can display ads within your dapp and earn revenue from clicks or impressions. However, you'll need to be careful not to overload your dapp with too many ads as this can negatively affect user experience.
+
+Affiliate marketing: You can partner with companies that sell historical items and earn a commission for any sales made through your app. This can be a great way to earn passive income while also promoting products that your users may be interested in.
+
+
+
+
 
 
