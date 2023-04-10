@@ -34,6 +34,13 @@ Each antique piece can be assigned a unique digital identifier, which will be re
 
 
 
+# Competitive landscape
+
+Present there is no competition for this idea because no one can don’t work on it so, no competition for idea in market In case any company can develop this type of idea in market our place is already top and updated version compare to those idea.
+
+Overall, the competitive landscape for a records system for antique pieces in a museum using blockchain technology is likely to be diverse and multifaceted, with a range of different players and solutions available to museums depending on their specific needs and requirements.
+
+
 
 
 
