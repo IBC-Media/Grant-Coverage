@@ -16,7 +16,7 @@ Lack of digitization: Lack of digitization can limit access to museum collection
 
 # Why Blockchain
 
-Google also provides the information about this                     antiques but this is not included with blockchain.
+Google also provides the information about this antiques but this is not included with blockchain.
 
 By providing blockchain this information is not deleted for ever. 
 
