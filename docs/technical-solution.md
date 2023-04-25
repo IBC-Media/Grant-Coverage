@@ -134,3 +134,20 @@ The choice of which decentralized storage system to use would depend on a number
 
 This is the need of decentralized storage in this project we required it.
 
+# Pallets Needed ?
+
+Substrate Pallet: Substrate is a blockchain framework that provides a scalable and flexible infrastructure for building blockchain-based applications. It may be used as the foundation for this project.
+
+Identity Pallet: This pallet may be used for managing user identities and access control to the system.
+
+Asset Pallet: The Asset pallet may be used for managing the records of antique pieces and their ownership history.
+
+Storage Pallet: This pallet may be used for storing and managing the data related to the records of antique pieces and their ownership history.
+
+Metadata Pallet: This pallet may be used for storing and managing the metadata related to the antique pieces, such as their name, description, age, and place of origin.
+
+Oracle Pallet: This pallet may be used for connecting the blockchain-based system to external data sources, such as market data or historical records.
+
+Smart Contract Pallet: This pallet may be used for deploying and managing the smart contracts that govern the interactions between the different components of the system.
+
+It could be not implemented by others as my knowledge so, we can implement this from scratch for our business functionalities.
