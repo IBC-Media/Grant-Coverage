@@ -60,11 +60,17 @@ The blockchain network ensures the integrity and authenticity of each record, pr
 The essential components that would be included in the architecture for building the product web2 components are:
 
 Database
+
 Cloud Infrastructure
+
 Security
+
 Storage
+
 Blockchain
+
 User Interface
+
 API
 
 The Web3 application architecture needs for the project:
@@ -98,5 +104,33 @@ APIs: APIs would be created to allow the Web3 application to interact with the s
 
 Overall, the product solution architecture would be designed to be highly scalable, secure, and reliable, with a focus on delivering a fast, responsive, and user-friendly experience for users. The architecture would leverage a combination of Web2 and Web3 technologies to provide a robust and innovative solution for managing the records of antique pieces.
 
+# Database Design and Decentralised Storage
 
+Based on the requirements and architecture, the database design for this project could include the following tables:
+
+Users table: This table would store the information about users who have access to the system, including their usernames, passwords, and email addresses. It could also include information about their roles and permissions within the system.
+
+Antique Pieces table: This table would store the information about each antique piece, such as its name, description, origin, age, and historical significance.
+
+Museum table: This table would store information about each museum that holds antique pieces. It could include information such as the museum name, address, contact details, and other relevant information.
+
+Transactions table: This table would store information about all transactions that occur within the system, including the buying and selling of antique pieces. It could include information such as the date and time of the transaction, the parties involved, and the details of the piece(s) being exchanged.
+
+Authentication table: This table would store information about the authentication of each antique piece. It could include details such as the date and time of authentication, the authentication method used, and the result of the authentication process.
+
+Ownership table: This table would store information about the ownership of each antique piece. It could include details such as the current owner, the date of ownership transfer, and the previous owner.
+
+The exact usage needs of the database would depend on the specific requirements of the system, but the above tables would provide a starting point for designing the database.
+
+We can design the Database with the help of above tables. And relational SQL database.
+
+The need of decentralized storage is becoming increasingly important in the context of blockchain-based applications due to its ability to provide greater security, reliability, and accessibility compared to centralized storage solutions. In a decentralized storage system, data is stored across a network of nodes instead of being stored on a central server or database. This makes it much harder for a single point of failure to cause data loss or corruption, as well as increasing the resistance to censorship and tampering.
+
+In the context of this specific project, decentralized storage could be particularly useful for storing records of the antique pieces and their historical information. This information is valuable and needs to be protected from tampering or loss, and decentralized storage can provide an additional layer of security to ensure that the data remains accessible and protected
+
+There are several options available for implementing decentralized storage, including IPFS, Arweave, and Filecoin. IPFS is a distributed file system that uses content-addressed storage to provide a permanent and decentralized way to store and share files. Arweave is a blockchain-based storage system that uses a novel consensus algorithm called Proof of Access to provide permanent, low-cost storage. Filecoin is a decentralized storage network that uses a blockchain-based marketplace to incentivize users to store and share files.
+
+The choice of which decentralized storage system to use would depend on a number of factors, including the specific needs of the project, the available resources, and the level of security and reliability required. Ultimately, the goal would be to choose a decentralized storage system that provides the best combination of security, accessibility, and cost-effectiveness for the specific requirements of the project.
+
+This is the need of decentralized storage in this project we required it.
 
