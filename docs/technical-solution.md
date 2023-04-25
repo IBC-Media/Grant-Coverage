@@ -151,3 +151,22 @@ Oracle Pallet: This pallet may be used for connecting the blockchain-based syste
 Smart Contract Pallet: This pallet may be used for deploying and managing the smart contracts that govern the interactions between the different components of the system.
 
 It could be not implemented by others as my knowledge so, we can implement this from scratch for our business functionalities.
+
+# Frontend and Backend Technology stack
+
+Here we can use “ HTML, CSS, JavaScript for frontend technology” in JavaScript frameworks we can use(“ React, Redux”)
+
+React: React is a popular and widely-used JavaScript library for building user interfaces. It provides a component-based approach for building reusable UI components and has a large and active developer community.
+
+Redux: Redux is a predictable state container for JavaScript applications. It provides a centralized store for managing the application state and allows for easy management of complex state interactions.
+
+project involves a Web2 server-side application to complement the Web3 blockchain-based frontend , use some technologies “Node.js, Express.js, MongoDB.”
+
+Node.js: Node.js is a popular server-side JavaScript runtime that provides a scalable and event-driven architecture. It allows for easy building of server-side applications with JavaScript.
+
+Express.js: Express.js is a popular and widely-used Node.js framework for building web applications. It provides a set of APIs and tools for building robust and scalable server-side applications.
+
+MongoDB: MongoDB is a popular NoSQL database that provides a flexible and scalable database solution. It allows for easy management of unstructured data and provides a wide range of data processing capabilities.
+
+Along with we can some backend language like “Rust” also.
+
